@@ -1,2 +1,3 @@
 # CRUD-OPERATIONS
-crud operations in javascript sample websiste
+website using html css and js 
+included the all crud operations in js
